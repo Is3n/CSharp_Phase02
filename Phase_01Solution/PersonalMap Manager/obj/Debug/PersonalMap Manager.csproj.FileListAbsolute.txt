@@ -1,0 +1,42 @@
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\PersonalMap Manager.exe.config
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\PersonalMap Manager.exe
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\PersonalMap Manager.pdb
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.csprojAssemblyReference.cache
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\App.g.cs
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager_MarkupCompile.cache
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager_MarkupCompile.lref
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\MainWindow.baml
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.g.resources
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap_Manager.Properties.Resources.resources
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.csproj.GenerateResource.cache
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.csproj.CopyComplete
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.exe
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.pdb
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\PersonalMap Manager.exe.config
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\PersonalMap Manager.exe
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\PersonalMap Manager.pdb
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.csprojAssemblyReference.cache
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\MainWindow.g.cs
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\App.g.cs
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager_MarkupCompile.cache
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager_MarkupCompile.lref
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\MainWindow.baml
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.g.resources
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap_Manager.Properties.Resources.resources
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.csproj.GenerateResource.cache
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.csproj.CopyComplete
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.exe
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\PersonalMap Manager.pdb
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\Connexion.g.cs
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\Connexion.baml
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\AboutMe.g.cs
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\AboutMe.baml
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\Option.g.cs
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\obj\Debug\Option.baml
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\MyCartographyObj.dll
+C:\Users\isen0\Documents\HEPL\19-20\C#\Labo\CSharp_Phase02\Phase_01Solution\PersonalMap Manager\bin\Debug\MyCartographyObj.pdb

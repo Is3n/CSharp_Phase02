@@ -1,0 +1,8 @@
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\Phase_01Solution\MyCartographyObjects\bin\Debug\netstandard2.0\MyCartographyObjects.deps.json
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\Phase_01Solution\MyCartographyObjects\bin\Debug\netstandard2.0\MyCartographyObjects.dll
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\Phase_01Solution\MyCartographyObjects\bin\Debug\netstandard2.0\MyCartographyObjects.pdb
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\Phase_01Solution\MyCartographyObjects\obj\Debug\netstandard2.0\MyCartographyObjects.csprojAssemblyReference.cache
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\Phase_01Solution\MyCartographyObjects\obj\Debug\netstandard2.0\MyCartographyObjects.AssemblyInfoInputs.cache
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\Phase_01Solution\MyCartographyObjects\obj\Debug\netstandard2.0\MyCartographyObjects.AssemblyInfo.cs
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\Phase_01Solution\MyCartographyObjects\obj\Debug\netstandard2.0\MyCartographyObjects.dll
+C:\Users\Isen\Documents\HEPL\19-20\C#\Labo\Labo_CSharp\Phase_01Solution\MyCartographyObjects\obj\Debug\netstandard2.0\MyCartographyObjects.pdb
